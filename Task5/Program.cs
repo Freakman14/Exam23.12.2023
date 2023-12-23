@@ -1,0 +1,1 @@
+﻿//Encapsulation ранги як капсулай ки мода доступ (private) намета .Variables ва methods истифода мебара.
